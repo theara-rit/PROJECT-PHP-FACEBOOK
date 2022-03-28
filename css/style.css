@@ -1,0 +1,35 @@
+.navbar {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    background: #f7f7f7;
+}
+body{
+    background-color: #fff;
+}
+span{
+    background-color: #fff;
+    width: 515px;
+}
+
+.card{
+    margin:auto;
+    background-color: #fff;
+    margin-top: 20px;
+    
+
+}
+
+.card-header{
+    background-color: #fff;
+}
+
+.card-header button{
+    margin-left: 80%;
+    margin-top: 10px;
+
+}
+
+
+
+
